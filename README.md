@@ -32,4 +32,4 @@ It is necessary to have a MySQL server installed on your PC for this project to 
 
 ## Support
 
-If you discover any faults or difficulties with this program, please contact me at gundnehal@mail.com
+If you discover any faults or difficulties with this program, please contact me at gundnehal@gmail.com
