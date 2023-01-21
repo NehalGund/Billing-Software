@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Billing-Software&style=plastic&label=Repository+Views)
 # Billing Software
 ## Tea Center Billing Software
 
